@@ -1,0 +1,19 @@
+[
+No: 77
+FirstName: Mahmud
+LastName: Mardini
+Age: 22
+Department: CS
+, 
+No: 97
+FirstName: Hasan
+LastName: Elhusein
+Age: 23
+Department: CE
+, 
+No: 95
+FirstName: Neriman
+LastName: Brimo
+Age: 20
+Department: PM
+]

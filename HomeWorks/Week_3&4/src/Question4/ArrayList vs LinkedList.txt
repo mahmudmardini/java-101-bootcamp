@@ -1,0 +1,7 @@
+
+ArrayList yapısı bir dinamik arraydır. 
+herhangi bir indexteki değeri silmek istediğimizde bütün sonraki elemanları kaaydırmamız gerekiyor.
+ama LinkedList ise herhangi bir kaydırma işlemi gerekmiyor çünkü bir elemanı silmek istediğimizde 
+sadece elemanların bağlantılarını değiştiriyoruz.
+kısacası ArrayListler dinamik bir dizidir ve daha çok okuma işlemleri için kullanması idealdir.
+LinkedList ise yoğun ekleme ve çıkarma işlemleri için kullanılması daha uygundur.
