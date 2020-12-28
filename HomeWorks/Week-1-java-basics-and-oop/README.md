@@ -1,20 +1,6 @@
 
 # Ödev Soruları
 
-## Not: Tüm soruları tek bir Java projesi içinde çözüp gönderebilirsiniz.
-
-**Açıklama1:** Soruların her biri ayrı ayrı algoritmaları ifade eder. Algoritma dediğimiz kavram bilgisayar programcılığı için çok önemli bir konudur.
-Algoritma düşünce sistematiğini geliştirmeyen bir yazılımcı yazılım kütüphanelerini, programlama dillerini öğrenerek iyi bir programcı olma yolunda çok ileriye gidemez.
-
-**Açıklama2:** Bu önemine istinaden ekstra algoritma ödevleriyle bu sizlerin bu yönünü geliştirmek hedefindeyiz.
-
-**Açıklama3:** Verilen soruları Java dilinde kodlamanızı rica ediyorum. Ayrıca, hazır çözümler kullanmadan herkesin bireysel kodlamalasını rica ediyorum.
-Yardımlaşma için birbirinizden ve benden yardım alabilirsiniz. Tek şart copy-paste kodlar lütfen olmasın :) Sizin gelişiminiz için bu çok önemlidir.
-
-**Açıklama4:** Ödev sorularını yaparken takıldığınız yerlerde Google'da aramalar yaparak yardım alabilirsiniz. Unutmayın Google en büyük yardımcınız :)
-
-#Sorular
-
 **Soru1:** String tipinde sabit bir şifre değişkeni oluşturun. Örneğin: String password = "12345"; gibi. Ardından, kullanıcıdan klavyeden bir şifre girmesini isteyin.
 Girilen şifre ile değişkende tuttuğunuz değeri kıyaslayın. Eğer, iki değer birbirine eşitse ekrana "Giriş Başarılı!", değilse "Giriş Başarısız" yazdırın.
 
@@ -53,7 +39,5 @@ Aşağıda yer alan sınıfları Java koduyla tasarlayınız. Katılım mantığ
 
 <img width="1065" alt="Screen Shot 2020-11-10 at 22 24 50" src="https://user-images.githubusercontent.com/2838457/98723607-ab914d80-23a3-11eb-9d27-daebb5670f72.png">
 
-
-**Bu bir sınav değildir! Sloganımız ==> Geliştirmek için kodluyoruz ... :))**
 
 
