@@ -1,19 +1,6 @@
 # hafta-3-4
 Java Collection Framework, Java8 Features, Reflection, I/O Operations, MultiThreading
 
-
-# Ödev Sorusu
-
-**Açıklama1:** Soruların her biri ayrı ayrı algoritmaları ifade eder. Algoritma dediğimiz kavram bilgisayar programcılığı için çok önemli bir konudur.
-Algoritma düşünce sistematiğini geliştirmeyen bir yazılımcı yazılım kütüphanelerini, programlama dillerini öğrenerek iyi bir programcı olma yolunda çok ileriye gidemez.
-
-**Açıklama2:** Bu önemine istinaden ekstra algoritma ödevleriyle bu sizlerin bu yönünü geliştirmek hedefindeyiz.
-
-**Açıklama3:** Verilen soruları Java dilinde kodlamanızı rica ediyorum. Ayrıca, hazır çözümler kullanmadan herkesin bireysel kodlamalasını rica ediyorum.
-Yardımlaşma için birbirinizden ve benden yardım alabilirsiniz. Tek şart copy-paste kodlar lütfen olmasın :) Sizin gelişiminiz için bu çok önemlidir.
-
-**Açıklama4:** Ödev sorularını yaparken takıldığınız yerlerde Google'da aramalar yaparak yardım alabilirsiniz. Unutmayın Google en büyük yardımcınız :)
-
 #Sorular
 
 **Soru1:** 
@@ -49,7 +36,3 @@ b- Bu 10 elemanlık Book listesinden sayfa sayısı 100'den fazla olan kitaplar�
 - 4 Thread bulduğu tek sayıları ortak bir ArrayList'e ekleyecektir.
 - Tek ve çift sayıları tutan ArrayList'ler ilk oluşturulduklarında boş olacaklardır. Ve iki tane ArrayList olacaklardır.
 - 4 Thread kendine ait 2500 elemanlık ArrayList'i işlemeye başlayınca tek ve çift sayı ArrayList'lerini dolduracaktır.
-
-
-
-**Bu bir sınav değildir! Geliştirmek için kodluyoruz ... :))**
